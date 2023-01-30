@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(247, 222, 241);
+}
+h1 {
+  margin-top: 0;
+  font-family: Georgia, serif;
+  font-size: 5rem;
+  color: #bc0404fd;
+  line-height: 2rem;
+}
+p {
+  font-family: Georgia, serif;
+  color: #bc0404fd;
+  line-height: 2;
+}
+h2 {
+  font-family: Georgia, serif;
+  font-size: 2rem;
+  color: #bc0404fd;
+  font-weight: normal;
+}
+h3 {
+  font-family: Georgia, serif;
+  color: #bc0404fd;
+}
+a {
+  color: black;
+}
+hr {
+  border: dotted 4px;
+  border-bottom: none;
+  width: 25px;
+  color: gray;
+  margin: 75px auto;
+}
+/* .instimg {
+  width: 450px;
+  height: 10px;
+  margin-top: 170px;
+  margin-left: auto;
+} */
+.intro {
+  width: 350px;
+  margin: auto;
+}
+/* img {
+  height: 170px;
+  width: 450px;
+  margin-top: 170px;
+  margin-left: auto;
+} */
+.Idpic {
+  height: 200px;
+  width: 190px;
+  margin-top: 0;
+  border-radius: 50%;
+}
+.instimg {
+  height: 170px;
+  width: 450px;
+  margin-top: 170px;
+  margin-left: auto;
+}
+.programmer {
+  height: 170px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+.cricket {
+  height: 170px;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.middle-container {
+  position: relative;
+  text-align: center;
+  margin: 75px 0;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contactinfo {
+  width: 500px;
+  margin: 40px auto 60px;
+}
+.bottom-container {
+  position: relative;
+  text-align: center;
+  background-color: #c8349b;
+  margin-bottom: 15px;
+}
+.texth1 {
+  position: absolute;
+  top: 8px;
+  left: 37%;
+  /* margin: auto;
+    top: 8px;  */
+}
+.textpara {
+  position: absolute;
+  top: 50px;
+  left: 31%;
+}
+.texth3 {
+  position: absolute;
+  top: 350px;
+  left: 42%;
+  color: black;
+}
+
+.btn {
+  padding: 10px 20px 10px 20px;
+  border-radius: 28px;
+  font-size: 20px;
+  color: black;
+  background: #c8349b;
+}
+.btn:hover {
+  background: rgb(190, 116, 179);
+}
+
+.footer-link {
+  padding: 5px 20px 5px 20px;
+  border-radius: 25px;
+  font-size: 20px;
+  color: #c8349b(45, 148, 156);
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: whitesmoke;
+}
+.authentication {
+  color: rgba(245, 245, 245, 0.936);
+}
